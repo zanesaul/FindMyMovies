@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Stay Home and Chill",
+      "domain": "your domain",
+      "price": "FREE",
+      "location": "Home",
+      "startDate": "Now",
+      "endDate": "End of Time",
+      "photoPath": "n/a",
+      "description": "Must stay home and relax",
+      "organizerName": "You"
+    }
+  ]
+}
